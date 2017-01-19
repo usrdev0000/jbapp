@@ -29,12 +29,17 @@ public class HelloService {
     }
 
 	String crearContenido() {
-        return <<"Hello 
+ 
+
+/* return <<"Hello 
 		
 		como
 		
 		va
 ">>;
+*/
+		return "Prueba"
+
 
     }
 	
