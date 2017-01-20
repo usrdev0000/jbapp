@@ -38,7 +38,7 @@ public class HelloService {
 		va
 ">>;
 */
-		return "Prueba 2";
+		return "Prueba 3";
 
 
     }
